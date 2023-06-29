@@ -26,7 +26,7 @@ tupla7 = tupla5 + tupla6;
 print("Concatenando tuplas: ", tupla7);
 
 #exemplos Criando variaveis novas com os valores de uma tupla
-a, b, c = tuplas6;
+a, b, c = tupla6;
 print();
 print("Valores das variáveis: ");
 print(a);
