@@ -39,13 +39,8 @@ Exercício 4 (Estruturas de repetição): Exercicío 4
 Como usar este repositório
 Este repositório é organizado em diferentes diretórios, cada um correspondendo a uma seção da ementa. Dentro de cada diretório, você encontrará arquivos de exemplo, tutoriais e exercícios práticos para fortalecer seu entendimento.
 
-Sinta-se à vontade para explorar o repositório e acessar os recursos que achar relevantes para o seu aprendizado. Você também pode clonar o repositório localmente em sua máquina usando o seguinte comando:
+Sinta-se à vontade para explorar o repositório e acessar os recursos que achar relevantes para o seu aprendizado. 
 
-git clone https://github.com/diegoalvesone/modulo-python
-Contribuição
-Se você quiser contribuir para este repositório, fique à vontade para enviar pull requests com melhorias, correções de bugs ou novos materiais de estudo relacionados à ementa. Sua contribuição é muito bem-vinda!
-
-Antes de enviar um pull request, certifique-se de revisar as diretrizes de contribuição no arquivo CONTRIBUTING.md para garantir uma colaboração suave e eficiente.
 
 Recursos adicionais
 Além dos materiais contidos neste repositório, aqui estão alguns recursos externos úteis para aprender Python:
@@ -53,6 +48,4 @@ Além dos materiais contidos neste repositório, aqui estão alguns recursos ext
 Python.org: O site oficial do Python, com documentação, tutoriais e downloads.
 Python Tutor: Uma ferramenta interativa que ajuda a visualizar a execução do código Python passo a passo.
 Licença
-Este repositório é distribuído sob a licença MIT. Sinta-se à vontade para usar o conteúdo deste repositório para seus próprios fins educacionais ou projetos pessoais.
 
-Esperamos que este repositório seja uma fonte valiosa de conhecimento e apoie seu aprendizado em Python. Divirta-se explorando a linguagem e construindo coisas incríveis com ela!
