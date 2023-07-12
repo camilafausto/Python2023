@@ -50,8 +50,8 @@ Cores_Selecionada = Cores.pop(3);
 print(Cores);
 print(Cores_Selecionada);
 
-#Exc.7:Tente adicionar a cor "laranja" à tupla "cores" e observe o resultado. Explique o motivo pelo qual ocorreu um erro fazendo
-#um comentário no código.
+#Exc.7:Tente adicionar a cor "laranja" à tupla "cores" e observe o resultado.
+#Explique o motivo pelo qual ocorreu um erro fazendo um comentário no código.
 
 Cores("laranja");
 

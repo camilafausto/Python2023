@@ -9,8 +9,8 @@ frase = "Eu amo Python";
 print("Tamanho: ",len(frase));
 
 #3- Crie duas variáveis, nome e sobrenome, e atribua a elas seus próprios valores. Concatene as variáveis para criar uma nova variável chamada nome_completo e imprima o resultado.
-nome = "Diego";
-sobreNome = "Alves";
+nome = "Camila";
+sobreNome = "Vasconcelos";
 nomeCompleto = nome + ' ' + sobreNome;
 print(nomeCompleto);
 

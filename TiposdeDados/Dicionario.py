@@ -1,14 +1,10 @@
-##meudicionario = {
-##"nome": "Camila",
-  ##  "sobrenome": "Vasconcelos"
-    
-meudicionario = {
+meuDicionario = {
   'nome'      : 'Camila', 
-  'sobrenome' : 'vasconcelos',
+  'sobrenome' : 'Vasconcelos',
   'anos'      : 37
 }
 
-print(meudicionario);
+print(meuDicionario);
 
 frutaDicionario = {
   'maçã'   : 3,
@@ -71,4 +67,9 @@ print("Chaves encontradas no dicionário: ",frutaDicionario.keys());
 print("Valores encontrados no dicionário: ", frutaDicionario.values());
 print(frutaDicionario.items());
 
- 
+
+
+
+
+
+
